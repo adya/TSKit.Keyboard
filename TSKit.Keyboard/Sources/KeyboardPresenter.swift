@@ -1,3 +1,8 @@
+/// - Since: 8/19/2018
+/// - Author: Arkadii Hlushchevskyi
+/// - Copyright: © 2018. Arkadii Hlushchevskyi.
+/// - Seealso: https://github.com/adya/TSKit.Keyboard/blob/master/LICENSE.md
+
 import UIKit
 
 public class KeyboardPresenter {
